@@ -1,8 +1,8 @@
 
 
 <h1> API de login e registro de usuarios </h1>
-<h2>A ideia desse projeto foi criar uma api que teria funcionalidade de registrar novos usuarios,
-e uma vez registrado eles teriam a opção de fazer Login.</h2>
+<h2>A ideia desse projeto foi criar uma API que teria funcionalidade de registrar novos usuarios,
+e uma vez registrado o usuario teria a opção de fazer Login.</h2>
 
 <h4> Uma vez feito o registro do usuario, seria gerado um token e esse token seria verificado toda vez que ele
 entrasse na pagina verificando se ele tem as permissões de admin ou se ele ja tinha feito o login. </h4>
