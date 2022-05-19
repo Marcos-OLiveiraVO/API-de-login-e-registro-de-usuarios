@@ -16,6 +16,7 @@ entrasse na pagina verificando se ele tem as permissões de admin ou se ele ja t
 <h5>Nesse Projeto foi utilizado das Seguintes Tecnologias : </h5>
 
 
+-  Com o padrão de arquitetura MVC (Model-view-controller)
 -  Node.js
 -  Express
 -  JWT
