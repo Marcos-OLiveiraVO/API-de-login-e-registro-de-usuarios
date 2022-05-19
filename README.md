@@ -1,6 +1,6 @@
 
 
-<h1> API de login e registro de usuarios </h1>
+<h1> Sistema de login e registro de usuarios </h1>
 <h2>A ideia desse projeto foi criar uma API que teria funcionalidade de registrar novos usuarios,
 e uma vez registrado o usuario teria a opção de fazer Login.</h2>
 
