@@ -21,6 +21,7 @@ entrasse na pagina verificando se ele tem as permissões de admin ou se ele ja t
 -  JWT
 -  Joi
 -  MongoDB
+-  Bcrypt
 
 
 
