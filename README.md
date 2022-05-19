@@ -13,8 +13,7 @@ entrasse na pagina verificando se ele tem as permissões de admin ou se ele ja t
   - <h5> A segurança da senha foi feita com criptografia utilizando-se do module Bcrypt. </h5>
 
 <br>
-
-Nesse Projeto foi utilizado das Seguintes Tecnologias :
+<h5>Nesse Projeto foi utilizado das Seguintes Tecnologias : </h5>
 
 
 -  Node.js
@@ -22,5 +21,6 @@ Nesse Projeto foi utilizado das Seguintes Tecnologias :
 -  JWT
 -  Joi
 -  MongoDB
+
 
 
