@@ -8,7 +8,7 @@ e uma vez registrado o usuario teria a opção de fazer Login.</h2>
 entrasse na pagina verificando se ele tem as permissões de admin ou se ele ja tinha feito o login. </h4>
 
 
-  - <h5> Autentificação do usuario foi feita utilizando-se do JWT. </h5>
+  - <h5> Autenticação do usuario foi feita utilizando-se do JWT. </h5>
   - <h5> Validação do usuario foi feita com JOI. </h5>
   - <h5> A segurança da senha foi feita com criptografia utilizando-se do module Bcrypt. </h5>
 
