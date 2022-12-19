@@ -6,6 +6,9 @@
 A ideia desse projeto foi criar uma API que teria funcionalidade de registrar novos usuarios,
 e uma vez registrado o usuario teria a opção de fazer Login.
 
+Este é um sistema de login e registro de usuários que dá as boas-vindas a novos usuários. Ele permite que os usuários criem suas próprias contas e façam login no sistema para acessar determinadas funcionalidades ou recursos. Se você ainda não tem uma conta, pode se registrar de forma fácil e rápida para começar a usufruir dos benefícios do sistema.
+
+
  Um sistema de login e registro onde o usuário se registraria com seu email, senha e nome e então teria
 a opção de fazer login inserindo apenas o nome e a senha correspondente, Nesse projeto fui capaz de conhecer mais sobre a segurança em relação aos dados do cliente.
 
